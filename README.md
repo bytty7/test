@@ -3,7 +3,5 @@
 
 welcome to my space
 
-GIT
-spac
-
+GITspac
 
