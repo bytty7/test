@@ -3,6 +3,5 @@
 
 welcome to my space
 
-GITspac
-
+GITspace
 
